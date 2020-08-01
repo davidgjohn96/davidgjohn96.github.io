@@ -85,7 +85,6 @@ d3.csv("https://flunky.github.io/cars2017.csv", function(data) {
       .style("opacity", 0)
   }
    
-  var pallete = ['blue','yellow','green','pink']
 
   // Add dots
   svg.append('g')
